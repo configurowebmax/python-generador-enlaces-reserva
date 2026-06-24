@@ -1,11 +1,11 @@
-# %%TITULO%% 🐍
+# Generador de Enlaces de Reserva 🐍
 
 [![Python](https://img.shields.io/badge/Python-100%25-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Deploy](https://github.com/configurowebmax/python-generador-enlaces-reserva/actions/workflows/pages.yml/badge.svg)](https://github.com/configurowebmax/python-generador-enlaces-reserva/actions)
 [![Live Demo](https://img.shields.io/badge/Demo-GitHub%20Pages-success?logo=github&logoColor=white)](https://configurowebmax.github.io/python-generador-enlaces-reserva/)
 [![License](https://img.shields.io/badge/Licencia-MIT-blue)](LICENSE)
 
-> %%DESCRIPCION%%
+> Construye URLs de WhatsApp y mailto pre-llenadas con el mensaje de reserva.
 
 ## 🚀 Probar la aplicación
 
